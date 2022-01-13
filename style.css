@@ -40,3 +40,8 @@ h1{
     padding-left: 15px;
     padding-top: 25px;
 }
+
+.selecionado {
+    font-weight: bold;
+    text-decoration: underline;
+}
